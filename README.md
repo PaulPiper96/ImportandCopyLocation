@@ -8,6 +8,11 @@ Going over a hundred would require a new IF Statement for the last few character
 
 Also the "copylocation" Method needs an already existing objectname of an Object to apply the new constrain
 
+
+![image](https://github.com/PaulPiper96/ImportandCopyLocation/assets/62021741/1d8d120e-48a5-4637-8c07-ab5a3297c525)
+
+
+
 @startuml
 start
 
